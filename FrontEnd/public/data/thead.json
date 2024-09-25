@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "data": [
+        {   "id":1,
+            "stt": "STT",
+            "manv": "Mã Nhân Viên",
+            "name": "Họ Tên",
+            "content": "Nội Dung",
+            "date": "Ngày quết định",
+            "hinhthuc":"Hình thức",
+            "status": "Trạng thái",
+            "action": "Thao tác" 
+        }
+         
+    ]
+}

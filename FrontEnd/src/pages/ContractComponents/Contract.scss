@@ -1,0 +1,102 @@
+/* Container cho các phần tử */
+.content-wrapper {
+  background-color: #fff;
+  padding: 20px;
+}
+ .Contract-list {
+  .contract-tittle {
+    margin-bottom: 24px;
+  }
+  
+  .contract-content {
+    //border: 1px solid #0a0e14;
+    border-radius: 24px;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .spinner-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+  
+  .action-button {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .modal-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .modal-dialog {
+    max-width: 600px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .list-group-item {
+    font-size: 14px;
+  }
+  
+  .custom-modal .modal-dialog {
+    max-width: 600px;
+  }
+  
+  .custom-modal .modal-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .filter-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  
+  }
+  
+  .filter-select {
+    flex: 1;
+    min-width: 150px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    box-sizing: border-box;
+    line-height: 1.5;
+    height: 38px; 
+  
+  }
+  
+  .filter-select:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+  }
+  
+  /* Responsive cho thiết bị di động */
+  @media (max-width: 768px) {
+    .filter-select {
+      flex: 1 1 100%;
+    }
+  }
+  
+  /* Responsive cho các thiết bị nhỏ hơn */
+  @media (max-width: 480px) {
+    .filter-select {
+      font-size: 14px;
+      padding: 6px;
+    }
+  }
+  
+ }

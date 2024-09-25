@@ -1,0 +1,570 @@
+[
+  {
+    "contract_id": "HD_1002",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "2",
+    "description": [
+      "Project A.docx",
+      "Project A.pdf"
+    ],
+    "employee_id": "NS_0004",
+    "status": true,
+    "create_at": 1723781623,
+    "update_at": 1723781623,
+    "luongCB": "12000000",
+    "id": "2",
+    "created_at": "2024-08-16T04:50",
+    "updated_at": "2024-08-16T04:55"
+  },
+  {
+    "contract_id": "HD_1003",
+    "contract_type": "parttime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "3",
+    "description": [
+      "Marketing Plan.docx",
+      "Marketing Plan.pdf"
+    ],
+    "employee_id": "NS_0005",
+    "status": true,
+    "create_at": 1723781723,
+    "update_at": 1723781723,
+    "luongCB": "8000000",
+    "id": "3",
+    "created_at": "2024-08-16T04:56",
+    "updated_at": "2024-08-16T05:01"
+  },
+  {
+    "contract_id": "HD_1004",
+    "contract_type": "freelance",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "4",
+    "description": [
+      "Website Design.docx",
+      "Website Design.pdf"
+    ],
+    "employee_id": "NS_0006",
+    "status": true,
+    "create_at": 1723781823,
+    "update_at": 1723781823,
+    "luongCB": "15000000",
+    "id": "4",
+    "created_at": "2024-08-16T05:02",
+    "updated_at": "2024-08-16T05:07"
+  },
+  {
+    "contract_id": "HD_1005",
+    "contract_type": "probationary",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "5",
+    "description": [
+      "New Hire.docx",
+      "New Hire.pdf"
+    ],
+    "employee_id": "NS_0007",
+    "status": true,
+    "create_at": 1723781923,
+    "update_at": 1723781923,
+    "luongCB": "7000000",
+    "id": "5",
+    "created_at": "2024-08-16T05:08",
+    "updated_at": "2024-08-16T05:13"
+  },
+  {
+    "contract_id": "HD_1006",
+    "contract_type": "intern",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "6",
+    "description": [
+      "Internship.docx",
+      "Internship.pdf"
+    ],
+    "employee_id": "NS_0008",
+    "status": true,
+    "create_at": 1723782023,
+    "update_at": 1723782023,
+    "luongCB": "4000000",
+    "id": "6",
+    "created_at": "2024-08-16T05:14",
+    "updated_at": "2024-08-16T05:19"
+  },
+  {
+    "contract_id": "HD_1007",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "7",
+    "description": [
+      "Software Development.docx",
+      "Software Development.pdf"
+    ],
+    "employee_id": "NS_0009",
+    "status": true,
+    "create_at": 1723782123,
+    "update_at": 1723782123,
+    "luongCB": "13000000",
+    "id": "7",
+    "created_at": "2024-08-16T05:20",
+    "updated_at": "2024-08-16T05:25"
+  },
+  {
+    "contract_id": "HD_1008",
+    "contract_type": "parttime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "8",
+    "description": [
+      "Content Writing.docx",
+      "Content Writing.pdf"
+    ],
+    "employee_id": "NS_0010",
+    "status": true,
+    "create_at": 1723782223,
+    "update_at": 1723782223,
+    "luongCB": "9000000",
+    "id": "8",
+    "created_at": "2024-08-16T05:26",
+    "updated_at": "2024-08-16T05:31"
+  },
+  {
+    "contract_id": "HD_1009",
+    "contract_type": "freelance",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "9",
+    "description": [
+      "App Development.docx",
+      "App Development.pdf"
+    ],
+    "employee_id": "NS_0011",
+    "status": true,
+    "create_at": 1723782323,
+    "update_at": 1723782323,
+    "luongCB": "16000000",
+    "id": "9",
+    "created_at": "2024-08-16T05:32",
+    "updated_at": "2024-08-16T05:37"
+  },
+  {
+    "contract_id": "HD_1010",
+    "contract_type": "probationary",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "10",
+    "description": [
+      "Sales.docx",
+      "Sales.pdf"
+    ],
+    "employee_id": "NS_0012",
+    "status": true,
+    "create_at": 1723782423,
+    "update_at": 1723782423,
+    "luongCB": "7500000",
+    "id": "10",
+    "created_at": "2024-08-16T05:38",
+    "updated_at": "2024-08-16T05:43"
+  },
+  {
+    "contract_id": "HD_1011",
+    "contract_type": "intern",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "11",
+    "description": [
+      "Database Internship.docx",
+      "Database Internship.pdf"
+    ],
+    "employee_id": "NS_0013",
+    "status": true,
+    "create_at": 1723782523,
+    "update_at": 1723782523,
+    "luongCB": "3500000",
+    "id": "11",
+    "created_at": "2024-08-16T05:44",
+    "updated_at": "2024-08-16T05:49"
+  },
+  {
+    "contract_id": "HD_1012",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "12",
+    "description": [
+      "Graphic Design.docx",
+      "Graphic Design.pdf"
+    ],
+    "employee_id": "NS_0014",
+    "status": true,
+    "create_at": 1723782623,
+    "update_at": 1723782623,
+    "luongCB": "11000000",
+    "id": "12",
+    "created_at": "2024-08-16T05:50",
+    "updated_at": "2024-08-16T05:55"
+  },
+  {
+    "contract_id": "HD_1013",
+    "contract_type": "parttime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "13",
+    "description": [
+      "Social Media.docx",
+      "Social Media.pdf"
+    ],
+    "employee_id": "NS_0015",
+    "status": true,
+    "create_at": 1723782723,
+    "update_at": 1723782723,
+    "luongCB": "8500000",
+    "id": "13",
+    "created_at": "2024-08-16T05:56",
+    "updated_at": "2024-08-16T06:01"
+  },
+  {
+    "contract_id": "HD_1014",
+    "contract_type": "freelance",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "14",
+    "description": [
+      "SEO Optimization.docx",
+      "SEO Optimization.pdf"
+    ],
+    "employee_id": "NS_0016",
+    "status": true,
+    "create_at": 1723782823,
+    "update_at": 1723782823,
+    "luongCB": "17000000",
+    "id": "14",
+    "created_at": "2024-08-16T06:02",
+    "updated_at": "2024-08-16T06:07"
+  },
+  {
+    "contract_id": "HD_1015",
+    "contract_type": "probationary",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "15",
+    "description": [
+      "HR Management.docx",
+      "HR Management.pdf"
+    ],
+    "employee_id": "NS_0017",
+    "status": true,
+    "create_at": 1723782923,
+    "update_at": 1723782923,
+    "luongCB": "7200000",
+    "id": "15",
+    "created_at": "2024-08-16T06:08",
+    "updated_at": "2024-08-16T06:13"
+  },
+  {
+    "contract_id": "HD_1016",
+    "contract_type": "intern",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "16",
+    "description": [
+      "Content Creation.docx",
+      "Content Creation.pdf"
+    ],
+    "employee_id": "NS_0018",
+    "status": true,
+    "create_at": 1723783023,
+    "update_at": 1723783023,
+    "luongCB": "3600000",
+    "id": "16",
+    "created_at": "2024-08-16T06:14",
+    "updated_at": "2024-08-16T06:19"
+  },
+  {
+    "contract_id": "HD_1017",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "17",
+    "description": [
+      "Network Security.docx",
+      "Network Security.pdf"
+    ],
+    "employee_id": "NS_0019",
+    "status": true,
+    "create_at": 1723783123,
+    "update_at": 1723783123,
+    "luongCB": "14000000",
+    "id": "17",
+    "created_at": "2024-08-16T06:20",
+    "updated_at": "2024-08-16T06:25"
+  },
+  {
+    "contract_id": "HD_1018",
+    "contract_type": "parttime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "18",
+    "description": [
+      "Customer Service.docx",
+      "Customer Service.pdf"
+    ],
+    "employee_id": "NS_0020",
+    "status": true,
+    "create_at": 1723783223,
+    "update_at": 1723783223,
+    "luongCB": "9500000",
+    "id": "18",
+    "created_at": "2024-08-16T06:26",
+    "updated_at": "2024-08-16T06:31"
+  },
+  {
+    "contract_id": "HD_1019",
+    "contract_type": "freelance",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "19",
+    "description": [
+      "E-commerce Strategy.docx",
+      "E-commerce Strategy.pdf"
+    ],
+    "employee_id": "NS_0021",
+    "status": true,
+    "create_at": 1723783323,
+    "update_at": 1723783323,
+    "luongCB": "18000000",
+    "id": "19",
+    "created_at": "2024-08-16T06:32",
+    "updated_at": "2024-08-16T06:37"
+  },
+  {
+    "contract_id": "HD_1020",
+    "contract_type": "probationary",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "20",
+    "description": [
+      "Project Management.docx",
+      "Project Management.pdf"
+    ],
+    "employee_id": "NS_0022",
+    "status": true,
+    "create_at": 1723783423,
+    "update_at": 1723783423,
+    "luongCB": "7700000",
+    "id": "20",
+    "created_at": "2024-08-16T06:38",
+    "updated_at": "2024-08-16T06:43"
+  },
+  {
+    "contract_id": "HD_1021",
+    "contract_type": "intern",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "21",
+    "description": [
+      "Tech Support.docx",
+      "Tech Support.pdf"
+    ],
+    "employee_id": "NS_0023",
+    "status": true,
+    "create_at": 1723783523,
+    "update_at": 1723783523,
+    "luongCB": "3700000",
+    "id": "21",
+    "created_at": "2024-08-16T06:44",
+    "updated_at": "2024-08-16T06:49"
+  },
+  {
+    "contract_id": "HD_1022",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "22",
+    "description": [
+      "Business Analysis.docx",
+      "Business Analysis.pdf"
+    ],
+    "employee_id": "NS_0024",
+    "status": true,
+    "create_at": 1723783623,
+    "update_at": 1723783623,
+    "luongCB": "12500000",
+    "id": "22",
+    "created_at": "2024-08-16T06:50",
+    "updated_at": "2024-08-16T06:55"
+  },
+  {
+    "contract_id": "HD_1023",
+    "contract_type": "parttime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "23",
+    "description": [
+      "Data Entry.docx",
+      "Data Entry.pdf"
+    ],
+    "employee_id": "NS_0025",
+    "status": true,
+    "create_at": 1723783723,
+    "update_at": 1723783723,
+    "luongCB": "9200000",
+    "id": "23",
+    "created_at": "2024-08-16T06:56",
+    "updated_at": "2024-08-16T07:01"
+  },
+  {
+    "contract_id": "HD_1024",
+    "contract_type": "freelance",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "24",
+    "description": [
+      "Business Consulting.docx",
+      "Business Consulting.pdf"
+    ],
+    "employee_id": "NS_0026",
+    "status": true,
+    "create_at": 1723783823,
+    "update_at": 1723783823,
+    "luongCB": "19000000",
+    "id": "24",
+    "created_at": "2024-08-16T07:02",
+    "updated_at": "2024-08-16T07:07"
+  },
+  {
+    "contract_id": "HD_1025",
+    "contract_type": "probationary",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "25",
+    "description": [
+      "Technical Writer.docx",
+      "Technical Writer.pdf"
+    ],
+    "employee_id": "NS_0027",
+    "status": true,
+    "create_at": 1723783923,
+    "update_at": 1723783923,
+    "luongCB": "7300000",
+    "id": "25",
+    "created_at": "2024-08-16T07:08",
+    "updated_at": "2024-08-16T07:13"
+  },
+  {
+    "contract_id": "HD_1026",
+    "contract_type": "intern",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "26",
+    "description": [
+      "Graphic Design.docx",
+      "Graphic Design.pdf"
+    ],
+    "employee_id": "NS_0028",
+    "status": true,
+    "create_at": 1723784023,
+    "update_at": 1723784023,
+    "luongCB": "3500000",
+    "id": "26",
+    "created_at": "2024-08-16T07:14",
+    "updated_at": "2024-08-16T07:19"
+  },
+  {
+    "contract_id": "HD_1027",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "27",
+    "description": [
+      "Software Development.docx",
+      "Software Development.pdf"
+    ],
+    "employee_id": "NS_0029",
+    "status": true,
+    "create_at": 1723784123,
+    "update_at": 1723784123,
+    "luongCB": "15000000",
+    "id": "27",
+    "created_at": "2024-08-16T07:20",
+    "updated_at": "2024-08-16T07:25"
+  },
+  {
+    "contract_id": "HD_1028",
+    "contract_type": "parttime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "28",
+    "description": [
+      "Market Research.docx",
+      "Market Research.pdf"
+    ],
+    "employee_id": "NS_0030",
+    "status": true,
+    "create_at": 1723784223,
+    "update_at": 1723784223,
+    "luongCB": "9100000",
+    "id": "28",
+    "created_at": "2024-08-16T07:26",
+    "updated_at": "2024-08-16T07:31"
+  },
+  {
+    "contract_id": "HD_1029",
+    "contract_type": "freelance",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "29",
+    "description": [
+      "Business Development.docx",
+      "Business Development.pdf"
+    ],
+    "employee_id": "NS_0031",
+    "status": true,
+    "create_at": 1723784323,
+    "update_at": 1723784323,
+    "luongCB": "20000000",
+    "id": "29",
+    "created_at": "2024-08-16T07:32",
+    "updated_at": "2024-08-16T07:37"
+  },
+  {
+    "contract_id": "HD_1030",
+    "contract_type": "probationary",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "30",
+    "description": [
+      "Database Administration.docx",
+      "Database Administration.pdf"
+    ],
+    "employee_id": "NS_0032",
+    "status": true,
+    "create_at": 1723784423,
+    "update_at": 1723784423,
+    "luongCB": "7500000",
+    "id": "30",
+    "created_at": "2024-08-16T07:38",
+    "updated_at": "2024-08-16T07:43"
+  },
+  {
+    "contract_id": "HD_1111",
+    "contract_type": "fulltime",
+    "start_date": "2024-08-01",
+    "end_date": "2024-09-01",
+    "contract_code": "123",
+    "description": [
+      "Java final test.docx",
+      "Java final test.pdf"
+    ],
+    "employee_id": "NS_0011",
+    "status": true,
+    "created_at": "2024-08-16T06:09",
+    "updated_at": "2024-08-16T06:20",
+    "luongCB": "9500001111",
+    "id": "31"
+  }
+]

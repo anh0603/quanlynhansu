@@ -1,0 +1,47 @@
+[
+    {
+        "name": "HTML",
+        "durationStart": "02/08/2024",
+        "durationEnd": "02/08/2024",
+        "classCode": "IT.00.01",
+        "classRoom": 101,
+        "lecturers": "GV1",
+        "id": ""
+    },
+    {
+        "name": "CSS",
+        "durationStart": "02/08/2024",
+        "durationEnd": "02/08/2024",
+        "classCode": "IT.00.02",
+        "classRoom": 102,
+        "lecturers": "GV2",
+        "id": ""
+    },
+    {
+        "name": "JS",
+        "durationStart": "02/08/2024",
+        "durationEnd": "02/08/2024",
+        "classCode": "IT.00.03",
+        "classRoom": 103,
+        "lecturers": "GV3",
+        "id": ""
+    },
+    {
+        "name": "REACT",
+        "durationStart": "02/08/2024",
+        "durationEnd": "02/08/2024",
+        "classCode": "IT.00.04",
+        "classRoom": 104,
+        "lecturers": "GV4",
+        "id": ""
+    },
+    {
+        "name": "JAVA",
+        "durationStart": "02/08/2024",
+        "durationEnd": "02/08/2024",
+        "classCode": "IT.00.05",
+        "classRoom": 105,
+        "lecturers": "GV5",
+        "id": ""
+    }
+]

@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "message": "Cập nhật trạng thái hợp đồng không thành công. Hợp đồng không tồn tại hoặc lỗi hệ thống.",
+  "errorCode": "404"
+}

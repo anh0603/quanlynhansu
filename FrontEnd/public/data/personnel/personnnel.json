@@ -1,0 +1,56 @@
+[
+    {
+        "employeeId": 1,
+        "qualificationName": "Bang thac si",
+        "employeeName": "Nguyen Van A",
+        "position": "Giao vien",
+        "status": true,
+        "date": "2024-01-01",
+        "gender": "Nam",
+        "image": [
+            {
+                "name": "file15.png",
+                "url": "http://example.com/file15.png"
+            }
+        ],
+        "email": "cong@dd",
+        "phoneNumber": "135546",
+        "CCCD": "13213"
+    },
+    {
+        "employeeId": 2,
+        "qualificationName": "Bang thac si",
+        "employeeName": "Nguyen Van A",
+        "position": "Giao vien",
+        "status": true,
+        "date": "2024-01-01",
+        "gender": "Nam",
+        "image": [
+            {
+                "name": "file15.png",
+                "url": "http://example.com/file15.png"
+            }
+        ],
+        "email": "cong@dd",
+        "phoneNumber": "135546",
+        "CCCD": "13213"
+    },
+    {
+        "employeeId": 3,
+        "qualificationName": "Bang thac si",
+        "employeeName": "Nguyen Van A",
+        "position": "Giao vien",
+        "status": true,
+        "date": "2024-01-01",
+        "gender": "Nam",
+        "image": [
+            {
+                "name": "file15.png",
+                "url": "http://example.com/file15.png"
+            }
+        ],
+        "email": "cong@dd",
+        "phoneNumber": "135546",
+        "CCCD": "13213"
+    }
+]

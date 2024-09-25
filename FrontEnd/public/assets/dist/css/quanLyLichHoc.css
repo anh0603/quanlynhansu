@@ -1,0 +1,135 @@
+.add_data_lichhoc {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.btn_add_data {
+    width: 120px;
+    height: 40px;
+    background-color: #007bff;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+.form-control {
+    width: 100%;
+    background-color: aquamarine;
+}
+.right-lh,
+.left-lh {
+    width: 100%;
+}
+
+.delete_data {
+    color: #fff;
+    background-color: #de2727a6;
+    border: none;
+    border-radius: 5px;
+}
+
+.fix_data {
+    color: #fff;
+    background-color: #383be1c4;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-add-calendar > button {
+    line-height: 30px;
+    flex-shrink: 0;
+    float: inline-end;
+    width: 115px;
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.card-header > .card-title {
+    color: #000;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+}
+.form-control,
+.form-control-sm {
+    width: 200px;
+    background-color: #000;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+.table-lich > thead > tr > th,
+.table-lich > tbody > tr > td {
+    vertical-align: middle;
+    text-align: center;
+}
+.table-lich > tbody > tr > td > svg {
+    cursor: pointer;
+}
+
+.icon-pen {
+    margin-right: 10px;
+}
+
+/* popup add  */
+.nenmodal .nenmodal2 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    display: none;
+}
+.nenmodal .ndmodal {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%) scale(0);
+    background: #fff;
+    width: 50%;
+    z-index: 2;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 20px;
+    display: block;
+    position: fixed;
+    box-shadow: 0px 0px 10px #111;
+}
+@media (max-width: 700px) {
+    .nenmodal .ndmodal {
+        width: 90%;
+    }
+}
+/* CSS bao bọc của nút tắt Modal */
+.nenmodal .closemodal {
+    text-align: center;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+.closemodal button {
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    padding: 0px;
+    border-radius: 100%;
+    background: #333;
+    color: #fff;
+    border: none;
+}
+.nenmodal.active .nenmodal2 {
+    display: block;
+}
+/* CSS hiệu ứng hiển thị Modal */
+.nenmodal.active .ndmodal {
+    transition: all 300ms ease-in-out;
+    transform: translate(-60%, -50%) scale(1);
+}

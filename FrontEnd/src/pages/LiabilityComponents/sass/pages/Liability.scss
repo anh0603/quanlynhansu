@@ -1,0 +1,41 @@
+
+.modal_Liability .modal-content {
+  position: relative;
+  right: 15rem;
+  width: 1200px;
+
+  .info_Student, .info_Liability {
+    font-size: 1.5rem;
+    color: #4a4a4a;
+    margin-bottom: 1rem;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+  }
+
+  .list_info_Student, .list_info_Liability {
+    .title_info {
+      display: flex;
+      align-items: center;
+      margin-bottom: 1rem;
+
+      .title_Student {
+        width: 145px;
+      }
+    }
+  }
+}
+
+.dataTables_filter {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+
+  .search-input {
+    flex: 1;
+  }
+}
+
+.title_info{
+
+}

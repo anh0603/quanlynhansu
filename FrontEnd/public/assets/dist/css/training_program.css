@@ -1,0 +1,51 @@
+.modal.fade .modal-dialog {
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+    transform: translate(0, -50px);
+    opacity: 0;
+}
+
+.modal.show .modal-dialog {
+    transform: translate(0, 0);
+    opacity: 1;
+} 
+tbody td,th {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .icon-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  .search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .search-bar .input-group {
+    max-width: 400px;
+    flex-grow: 1;
+  }
+  .icon-container a i {
+    color: black;
+    /* font-weight: bold !important; */
+  }
+   .modal-content {
+    padding: 20px;
+  }
+  .detail {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    color: #fff;
+  }
+  .detail h3 {
+    margin: 0;
+  }
+
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  .table-responsive {
+    margin-bottom: 1rem;
+  }

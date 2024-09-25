@@ -1,0 +1,23 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 1,
+      "name": "Ho Van Quan",
+      "phone_number": "0976118118",
+      "email": "quanhv@lsd.vn"
+    },
+    {
+      "id": 2,
+      "name": "Ho Van Van",
+      "phone_number": "0976118118",
+      "email": "quanhv@lsd.vn"
+    },
+    {
+      "id": 3,
+      "name": "Ho Van Xuyen",
+      "phone_number": "0976118118",
+      "email": "quanhv@lsd.vn"
+    }
+  ]
+}

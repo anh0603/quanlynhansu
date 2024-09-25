@@ -1,0 +1,14 @@
+.input-group {
+  display: flex;
+  align-items: center;
+
+  .form-control {
+    flex: 1;
+    border-radius: 0;
+  }
+
+  .input-group-text {
+    cursor: pointer;
+    border-radius: 0;
+  }
+}

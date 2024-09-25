@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "duration": "45 hours",
+      "programName": "STEM",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Physics",
+      "duration": "30 hours",
+      "programName": "STEM",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "Chemistry",
+      "duration": "40 hours",
+      "programName": "Science",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Biology",
+      "duration": "35 hours",
+      "programName": "Science",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "History",
+      "duration": "25 hours",
+      "programName": "Arts",
+      "status": "Inactive"
+    },
+    {
+      "id": 6,
+      "name": "Geography",
+      "duration": "20 hours",
+      "programName": "Arts",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Computer Science",
+      "duration": "50 hours",
+      "programName": "STEM",
+      "status": "Active"
+    }
+  ]
+}

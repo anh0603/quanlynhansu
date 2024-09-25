@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Nguyễn Văn An",
+            "email": "nguyen.van.an@example.com",
+            "manv": "Av120",
+            "content": "Nhân viên ưu tú cấp vũ trụ",
+            "date": "2003-07-19", 
+            "hinhthuc": "Khen thưởng",
+            "status": "Chưa trao giải",
+            "address": "123 Đường Main, Thành phố Springfield",
+            "phone": "0123456789",
+            "img": "https://img.pikbest.com/origin/10/06/47/03TpIkbEsTx64.jpg!w700wp",
+            "phong_ban": "Marketing"
+        },
+        {
+            "id": 2,
+            "name": "Trần Thị Bình",
+            "email": "tran.thi.binh@example.com",
+            "manv": "Av121",
+            "content": "Nhân viên xuất sắc tháng này",
+            "date": "2003-07-19", 
+            "hinhthuc": "Khen thưởng",
+            "status": "Đã trao giải",
+            "address": "456 Đường Elm, Thành phố Springfield",
+            "phone": "0987654321",
+            "img": "https://img.pikbest.com/origin/10/06/47/03TpIkbEsTx64.jpg!w700wp",
+            "phong_ban": "Sales"
+        },
+        {
+            "id": 3,
+            "name": "Lê Văn Cường",
+            "email": "le.van.cuong@example.com",
+            "manv": "Av122",
+            "content": "Đóng góp đặc biệt cho dự án",
+            "date": "2003-07-19", 
+            "hinhthuc": "Khen thưởng",
+            "status": "Chưa trao giải",
+            "address": "789 Đường Oak, Thành phố Springfield",
+            "phone": "0234567890",
+            "img": "https://img.pikbest.com/origin/10/06/47/03TpIkbEsTx64.jpg!w700wp",
+            "phong_ban": "Development"
+        },
+        {
+            "id": 4,
+            "name": "Phạm Thị Dung",
+            "email": "pham.thi.dung@example.com",
+            "manv": "Av123",
+            "content": "Nhân viên sáng tạo nhất năm",
+            "date": "2003-07-19", 
+            "hinhthuc": "Khen thưởng",
+            "status": "Đã trao giải",
+            "address": "321 Đường Pine, Thành phố Springfield",
+            "phone": "0345678901",
+            "img": "https://img.pikbest.com/origin/10/06/47/03TpIkbEsTx64.jpg!w700wp",
+            "phong_ban": "Design"
+        },
+        {
+            "id": 5,
+            "name": "Vũ Văn Đông",
+            "email": "vu.van.dong@example.com",
+            "manv": "Av124",
+            "content": "Nhân viên hỗ trợ tận tâm",
+            "date": "2003-07-19",   
+            "hinhthuc": "Khen thưởng",
+            "status": "Chưa trao giải",
+            "address": "654 Đường Maple, Thành phố Springfield",
+            "phone": "0456789012",
+            "img": "https://img.pikbest.com/origin/10/06/47/03TpIkbEsTx64.jpg!w700wp",
+            "phong_ban": "Customer Support"
+        }
+    ]
+}

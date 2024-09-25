@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "qualificationName": "Bang thac si",
+    "employeeName": "Nguyen Van A",
+    "position": "Giao vien",
+    "status": true,
+    "createdAt": "2024-01-01",
+    "modifiedAt": "2024-01-01",
+    "image": "./path/hinhanh.jpg",
+    "duration": "2024-01-01"
+  },
+  {
+    "id": 2,
+    "qualificationName": "Bang thac si",
+    "employeeName": "Nguyen Van A",
+    "position": "Giao vien",
+    "status": true,
+    "createdAt": "2024-01-01",
+    "modifiedAt": "2024-01-01",
+    "image": "./path/hinhanh.jpg",
+    "duration": "2024-01-01"
+  },
+  {
+    "id": 3,
+    "qualificationName": "Bang thac si",
+    "employeeName": "Nguyen Van A",
+    "position": "Giao vien",
+    "status": true,
+    "createdAt": "2024-01-01",
+    "modifiedAt": "2024-01-01",
+    "image": "./path/hinhanh.jpg",
+    "duration": "2024-01-01"
+  }
+]
